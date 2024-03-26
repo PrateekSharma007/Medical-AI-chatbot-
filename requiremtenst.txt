@@ -1,5 +1,0 @@
-ctransformer==0.2.5 
-sentence-transformer==2.2.5 (embedding) 
-pinecone-client 
-langchain 
-flask 
